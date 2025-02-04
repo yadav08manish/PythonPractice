@@ -1,0 +1,4 @@
+List: Mutable : We can change values
+dictionary: Mutable: We can change values
+tuple: Immutable , we can not change values of tuple and also we can not add or remove values from tuple
+set : Set is mutable but element of set is imutable , hence we can not add list and dictionary in set
