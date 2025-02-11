@@ -1,0 +1,1 @@
+# When we want to access Parent class properties in child class constructor the we user Super() Method
